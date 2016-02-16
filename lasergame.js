@@ -5,11 +5,29 @@ var r = confirm("Game Start!");
 
 var question = prompt("A rooster lays an egg on a roof. Which side does it roll?","");
 if (question ==="roosters don't lay eggs") {
-	alert("Correct!")
+	alert("Correct! You got lucky this time. Let's see how you handle your next question. Here is a toucan as a reward. ")
 }
 
 else {
-	alert("You are very stupid. Roosters don't lay eggs! Quit this game and learn some stuff.")
+	alert("You are very stupid. Roosters don't lay eggs! Quit this game and learn some stuff.
+████▀░░░░░░░░░░░░░░░░░▀████
+███│░░░░░░░░░░░░░░░░░░░│███
+██▌│░░░░░░░░░░░░░░░░░░░│▐██
+██░└┐░░░░░░░░░░░░░░░░░┌┘░██
+██░░└┐░░░░░░░░░░░░░░░┌┘░░██
+██░░┌┘▄▄▄▄▄░░░░░▄▄▄▄▄└┐░░██
+██▌░│██████▌░░░▐██████│░▐██
+███░│▐███▀▀░░▄░░▀▀███▌│░███
+██▀─┘░░░░░░░▐█▌░░░░░░░└─▀██
+██▄░░░▄▄▄▓░░▀█▀░░▓▄▄▄░░░▄██
+████▄─┘██▌░░░░░░░▐██└─▄████
+█████░░▐█─┬┬┬┬┬┬┬─█▌░░█████
+████▌░░░▀┬┼┼┼┼┼┼┼┬▀░░░▐████
+█████▄░░░└┴┴┴┴┴┴┴┘░░░▄█████
+███████▄░░░░░░░░░░░▄███████
+██████████▄▄▄▄▄▄▄██████████
+███████████████████████████ 
+THE SKULL OF DEATH")
 }
 
 var question2 = prompt("What is heavier, a ton of feathers or a ton of gold?")
