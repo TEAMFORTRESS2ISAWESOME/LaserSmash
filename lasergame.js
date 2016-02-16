@@ -20,3 +20,12 @@ if (question2 ==="the gold") {
 else {
 	alert("IDIOT! You might think you know this if you put they are the same weight but notice I wrote ton and not tonne! Go and learn English!")
 }
+
+var question3 = prompt("With pointed fangs I sit and wait; with piercing force I crunch out fate; grabbing victims, proclaiming might;physically joining with a single bite. What am I?")
+if (question3 ==="a stapler") {
+	alert("Pretty good rookie! Now I think you might be a tiny bit smart! ")
+}
+
+else {
+	alert("So stupid! I bet you said a vampire. Jeez! Ever thought of household objects like a STAPLER?")
+}
